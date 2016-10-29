@@ -10,9 +10,10 @@ View Graph on PlotLy:
   Go to link - https://plot.ly/accounts/login/?action=login
   Login with User: ryanlai2  Pass: ryan123123
   You will see the graph you created as well as the data.
-  
-  
-  
+
+
+
+
 
 
 cudatest:
