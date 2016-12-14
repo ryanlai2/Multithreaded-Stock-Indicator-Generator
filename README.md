@@ -1,5 +1,4 @@
-cudatest:
-Explored some basic features of parallelism by using CUDA on Visual Studio 2015 on windows 10. 
+.EXE Executable and source code found in cudaMain folder.
 
 Finished:
 
